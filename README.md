@@ -1,6 +1,6 @@
 ### Buenas! 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true)](https://github.com/cristobalstrange/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)
