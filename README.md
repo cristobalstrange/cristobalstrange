@@ -6,6 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)
 
 ![👀](https://komarev.com/ghpvc/?username=cristobalstrange)
+
+[![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)]
 <!--
 **cristobalstrange/cristobalstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
