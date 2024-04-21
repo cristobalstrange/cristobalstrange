@@ -7,7 +7,7 @@
 
 ![👀](https://komarev.com/ghpvc/?username=cristobalstrange)
 
-[![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)]
+![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)
 <!--
 **cristobalstrange/cristobalstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
