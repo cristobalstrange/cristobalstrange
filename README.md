@@ -1,4 +1,5 @@
 ### Buenas! 👋
+<html>
 <span>
     
 ![👀](https://komarev.com/ghpvc/?username=cristobalstrange)
@@ -18,7 +19,7 @@
      width: 123px;
 }
 </style>
-
+</html>
 <!--
 **cristobalstrange/cristobalstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
