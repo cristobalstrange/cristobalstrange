@@ -1,51 +1,30 @@
 ### Buenas! 👋
 <html>
+
+    <style>
+ #whatever div {
+  display: inline;
+  margin: 0 1em 0 1em;
+  width: 30%;
+}
+    </style>
+
+<div id="whatever">
+ <div> ![👀](https://komarev.com/ghpvc/?username=cristobalstrange) </div>
+ <div> ![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer) </div>
+ <div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)</div>
+ <div> [![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats) </div>
+</div>
 <span>
     
-![👀](https://komarev.com/ghpvc/?username=cristobalstrange)
 
-![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)
-
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
 </span>
 
-<style>
-.floatybox {
-     display: inline-block;
-     width: 123px;
-}
-</style>
+
 </html>
+
 <!--
-**cristobalstrange/cristobalstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Hi there 👋 I'm ibgarrido! 
-
-
-
-## About me
-
-
-
-## CV
-
-### Education
-
-- **Bachelor in Engineering data science** - *Pontificia Universidad Católica de Chile* - Coming soon
 
 ### Languages:
 
@@ -74,17 +53,6 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="d3" width="40" height="40"/> </a>
 <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" alt="overleaf" width="40" height="40"/> </a>
 </p>
-
-
-### Analytics:
-
-![ibgarrido's Stats](https://github-readme-stats.vercel.app/api?username=ibgarrido&theme=highcontrast&show_icons=true&hide_border=false&count_private=false)
-
-![ibgarrido's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibgarrido&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-
-
-👏 Please give me a ⭐️ if you like my repositories!
-
 
 -->
 
