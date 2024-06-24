@@ -7,8 +7,12 @@
 
 ![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristobalstrange&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
