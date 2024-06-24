@@ -1,4 +1,5 @@
 ### Buenas! 👋
+<span>
 ![👀](https://komarev.com/ghpvc/?username=cristobalstrange)
 
 ![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)
@@ -8,7 +9,7 @@
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
-
+</span>
 
 
 
@@ -31,11 +32,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning the fundamentals of computer science (Probably all my life lol).
-- 📫 How to reach me: ibgarrido@uc.cl
-- 💻 Favorite OS: Mac OS.
-- ⚡ Fun fact: ...
 
 
 ## CV
