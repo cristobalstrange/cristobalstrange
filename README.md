@@ -11,11 +11,13 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
 </span>
+
+<style>
 .floatybox {
      display: inline-block;
      width: 123px;
 }
-
+</style>
 
 <!--
 **cristobalstrange/cristobalstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
