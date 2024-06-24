@@ -1,24 +1,13 @@
 ### Buenas! 👋
 <html>
 
-<style>
- #whatever div {
-  display: inline;
-  margin: 0 1em 0 1em;
-  width: 30%;
-}
-</style>
 
-<div id="whatever">
- <div> ![👀](https://komarev.com/ghpvc/?username=cristobalstrange&style=for-the-badge) </div>
- <div> ![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer) </div>
- <div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)</div>
- <div> [![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats) </div>
-</div>
-<span>
-    
 
-</span>
+![👀](https://komarev.com/ghpvc/?username=cristobalstrange&style=for-the-badge) 
+![Typeracer](https://data.typeracer.com/misc/badge?user=pilubolaer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristobalstrange&theme=synthwave&layout=donut)](https://github.com/cristobalstrange/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=cristobalstrange&theme=synthwave&hide_rank=true&show_icons=true&hide_rank=true)](https://github.com/cristobalstrange/github-readme-stats)
+
 
 
 </html>
